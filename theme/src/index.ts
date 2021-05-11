@@ -13,3 +13,4 @@ export const theme = merge.all(
   { arrayMerge: (t, s) => [...s, ...t] }
 );
 foobar
+foobar
