@@ -12,3 +12,5 @@ export const theme = merge.all(
   [typography],
   { arrayMerge: (t, s) => [...s, ...t] }
 );
+foobar
+foobar
